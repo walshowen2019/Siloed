@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49809:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/thomaswalsh/IdeaProjects/Siloed/out/production/Siloed Main
+The people must save 0.07233200812205863 Cubic Meters of water each to not die at the end of the month
+
+Process finished with exit code 0
